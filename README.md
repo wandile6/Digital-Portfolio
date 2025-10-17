@@ -6,7 +6,7 @@ Welcome to my digital portfolio. I am **Wandile Mhlongo**, an ICT student majori
 ---
 
 ## ✅ 1. Business Communication
-![Business Communication Screenshot](p1.png)
+![Business Communication Screenshot](https://github.com/wandile6/Digital-Portfolio/blob/main/Business%20Communication.prm.png)
 
 ### 📄 Evidence:
 - Participated in a **Business Communication workshop** focused on writing professional emails and presenting confidently.
