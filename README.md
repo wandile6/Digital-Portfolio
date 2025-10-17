@@ -51,7 +51,7 @@ Welcome to my digital portfolio. I am **Wandile Mhlongo**, an ICT student majori
 ---
 
 ## ✅ 4. Professional Networking
-![Professional Networking Screenshot](p4.png)
+![Professional Networking Screenshot](https://github.com/wandile6/Digital-Portfolio/blob/main/Linkedin%20prpfile.prm.png)
 
 ### 📄 Evidence:
 - Created or updated my **LinkedIn / networking profile** to connect with ICT professionals.
