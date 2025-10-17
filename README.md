@@ -36,7 +36,7 @@ Welcome to my digital portfolio. I am **Wandile Mhlongo**, an ICT student majori
 ---
 
 ## ✅ 3. Mock Interview
-![Mock Interview Screenshot](p3.png)
+![Mock Interview Screenshot](https://github.com/wandile6/Digital-Portfolio/blob/main/Mock%20Interview.prm.png)
 
 ### 📄 Evidence:
 - Participated in a **mock interview simulation** to replicate a real hiring scenario.
