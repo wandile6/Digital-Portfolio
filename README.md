@@ -21,7 +21,7 @@ Welcome to my digital portfolio. I am **Wandile Mhlongo**, an ICT student majori
 ---
 
 ## ✅ 2. Interview Skills
-![Interview Skills Screenshot](p2.png)
+![Interview Skills Screenshot](https://github.com/wandile6/Digital-Portfolio/blob/main/interview%20skills.png)
 
 ### 📄 Evidence:
 - Completed a session on **Interview Readiness**, including common interview questions and response planning.
