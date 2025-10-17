@@ -1,7 +1,7 @@
 # 💼 Wandile Mhlongo's Work Readiness E-Portfolio
 
 ## 🎯 Introduction
-Welcome to my digital portfolio. I am **Wandile Mhlongo**, an ICT student majoring in Communication Networks at the Cape Peninsula University of Technology. This portfolio presents evidence from my **Work Readiness Training**, aligned with the official assessment rubric. Each section includes **proof (screenshots)** and a **STAR reflection** to demonstrate growth and professional readiness.
+Welcome to my digital portfolio. I am Wandile Mhlongo, an ICT student majoring in Communication Networks at the Cape Peninsula University of Technology. This portfolio presents evidence from my  Work Readiness Training, aligned with the official assessment rubric. Each section includes proof (screenshots)and a STAR reflection to demonstrate growth and professional readiness.
 
 ---
 
@@ -9,8 +9,8 @@ Welcome to my digital portfolio. I am **Wandile Mhlongo**, an ICT student majori
 ![Business Communication Screenshot](https://github.com/wandile6/Digital-Portfolio/blob/main/Business%20Communication.prm.png)
 
 ### 📄 Evidence:
-- Participated in a **Business Communication workshop** focused on writing professional emails and presenting confidently.
-- Completed a written task to practice **formal workplace correspondence**.
+- Participated in a Business Communication workshop focused on writing professional emails and presenting confidently.
+- Completed a written task to practice formal workplace correspondence.
 
 ### ⭐ STAR Reflection:
 - **Situation:** I struggled to structure formal emails professionally.
@@ -24,7 +24,7 @@ Welcome to my digital portfolio. I am **Wandile Mhlongo**, an ICT student majori
 ![Interview Skills Screenshot](https://github.com/wandile6/Digital-Portfolio/blob/main/interview%20skills.png)
 
 ### 📄 Evidence:
-- Completed a session on **Interview Readiness**, including common interview questions and response planning.
+- Completed a session on Interview Readiness, including common interview questions and response planning.
 - Practiced answering technical and HR-based ICT networking interview questions.
 
 ### ⭐ STAR Reflection:
@@ -39,13 +39,13 @@ Welcome to my digital portfolio. I am **Wandile Mhlongo**, an ICT student majori
 ![Mock Interview Screenshot](https://github.com/wandile6/Digital-Portfolio/blob/main/Mock%20Interview.prm.png)
 
 ### 📄 Evidence:
-- Participated in a **mock interview simulation** to replicate a real hiring scenario.
+- Participated in a mock interview simulation to replicate a real hiring scenario.
 - Received constructive feedback on posture, tone, and technical explanation.
 
 ### ⭐ STAR Reflection:
 - **Situation:** During the mock interview, I felt nervous when explaining my skills.
 - **Task:** Present myself confidently while demonstrating my ICT abilities.
-- **Action:** I applied the **STAR method** while answering scenario-based questions.
+- **Action:** I applied the STAR method while answering scenario-based questions.
 - **Result:** I learned how to communicate my experiences more effectively and maintain professional body language.
 
 ---
@@ -54,7 +54,7 @@ Welcome to my digital portfolio. I am **Wandile Mhlongo**, an ICT student majori
 ![Professional Networking Screenshot](https://github.com/wandile6/Digital-Portfolio/blob/main/Linkedin%20prpfile.prm.png)
 
 ### 📄 Evidence:
-- Created or updated my **LinkedIn / networking profile** to connect with ICT professionals.
+- Created or updated my LinkedIn / networking profile to connect with ICT professionals.
 - Engaged in professional networking strategy discussions on how to grow my presence as an ICT graduate.
 
 ### ⭐ STAR Reflection:
@@ -66,10 +66,10 @@ Welcome to my digital portfolio. I am **Wandile Mhlongo**, an ICT student majori
 ---
 
 ## ✅ 5. Workplace Etiquette
-![Workplace Etiquette Screenshot](p5.png)
+![Workplace Etiquette Screenshot](https://github.com/wandile6/Digital-Portfolio/blob/main/workplace%20ettique.prm.png)
 
 ### 📄 Evidence:
-- Completed a session on **professional behaviour, dress code, communication etiquette, and teamwork conduct**.
+- Completed a session on professional behaviour, dress code, communication etiquette, and teamwork conduct.
 - Reflected on how ICT professionals are expected to behave in corporate environments.
 
 ### ⭐ STAR Reflection:
@@ -81,7 +81,7 @@ Welcome to my digital portfolio. I am **Wandile Mhlongo**, an ICT student majori
 ---
 
 ## 🎓 Summary
-This portfolio showcases my readiness for the professional ICT environment. Through business communication, interview preparation, networking, and workplace etiquette training, I have developed essential competencies needed for a successful career in **Communication Networks and IT Support**.
+This portfolio showcases my readiness for the professional ICT environment. Through business communication, interview preparation, networking, and workplace etiquette training, I have developed essential competencies needed for a successful career in Communication Networks and IT Support.
 
 ---
 
